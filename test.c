@@ -1,6 +1,5 @@
 /**
- Plan na razie taki, 
-	Coś sie tutaj jednak dzieje :P
+ Autor: Michał Szala
 */
 
 #include<stdio.h>

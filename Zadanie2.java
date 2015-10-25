@@ -3,7 +3,7 @@ package zadanie;
 import java.security.SecureRandom;
 import java.util.Random;
 import java.lang.Math;
-//Zostaje odszyfrowac :P
+//Autor: Micha³ Szala
 public class Zadanie2 {
 
 	public void decode(int generate){
